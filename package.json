@@ -1,0 +1,14 @@
+{
+  "name": "keycode-project",
+  "version": "1.0.0",
+  "description": "KeyCode Project",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
